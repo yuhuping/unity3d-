@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf4c666a5c02cd0418cec98fb5c00523, type: 3}
+  m_Name: Frag
+  m_EditorClassIdentifier: 
+  itemName: Frag
+  itemImage: {fileID: 21300000, guid: 7d2124baa9fee1946a5107371ba169c3, type: 3}
+  itemNum: 10
+  itemInfo: "\u5C0F\u5FC3\u624B\u96F7\uFF01"
